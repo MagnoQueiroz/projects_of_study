@@ -15,8 +15,7 @@ body {
 #container {
     color: black;
     background-color: #fff;
-    /* max-width: 720px; */
-   max-width: 720px;
+    max-width: 720px;
     max-height: 220px ;
     padding: 40px;
     border-radius: 10px;
